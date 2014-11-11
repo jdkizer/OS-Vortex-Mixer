@@ -29,7 +29,7 @@ Intructions
 1. Assemble electronics acording to schematic
 2. Hot Glue micro switch onto post on Vortex_Mixer_Base
 3. Hot Glue other electronics into Vortex_Mixer_Base
-4.Place motor in the Vortex_Mixer_Clamp, tighten with one bolt and nut.
+4. Place motor in the Vortex_Mixer_Clamp, tighten with one bolt and nut.
 5. Insert Nut into Vortex_Mixer_Coupler
 6. Attatch bearing to Vortex_Mixer_Coupler using second M5 bolt
 7. Push Vortex_Mixer_Coupler onto motor shaft
